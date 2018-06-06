@@ -1,6 +1,7 @@
 var userName = prompt('Кто пришел?’, '');
 
-if (userName == 'Админ') {
+if (userName == 'Админ') 
+{
 
   var pass = prompt('Пароль?', '');
 
