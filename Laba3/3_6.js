@@ -19,7 +19,7 @@ do {
   }
 
   p = i;
-} while (p * p < 100); // шаг 5
+} while (p * p < 100);
 
 var sum = 0;
 for (i = 0; i < arr.length; i++) {
